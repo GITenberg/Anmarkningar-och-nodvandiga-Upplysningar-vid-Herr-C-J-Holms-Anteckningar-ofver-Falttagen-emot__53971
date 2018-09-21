@@ -1,0 +1,28 @@
+_repo: Anmarkningar-och-nodvandiga-Upplysningar-vid-Herr-C-J-Holms-Anteckningar-ofver-Falttagen-emot__53971
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Adlercreutz, Gustav Magnus
+    birthdate: 1775
+    deathdate: 1845
+    gutenberg_agent_id: '47643'
+    url: http://www.gutenberg.org/2009/agents/47643
+description: 'See also: Anteckningar öfver Fälttågen emot Ryssland åren 1808 och 1809
+  / C. J. Holm, #53972.'
+gutenberg_issued: '2017-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53971'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Holm, Carl Johan, 1781-1867. Anteckningar öfver fälttågen emot Ryssland åren
+  1808 och 1809'
+- !lcc 'DL'
+- !lcsh 'Russo-Swedish War, 1808-1809'
+- GITenberg
+title: Anmärkningar och nödvändiga Upplysningar vid Herr C. J. Holms Anteckningar
+  öfver Fälttågen emot Ryssland åren 1808 och 1809
+url: http://www.gutenberg.org/ebooks/53971
