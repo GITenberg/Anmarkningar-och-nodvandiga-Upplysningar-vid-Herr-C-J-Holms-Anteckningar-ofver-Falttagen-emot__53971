@@ -1,5 +1,8 @@
 _repo: Anmarkningar-och-nodvandiga-Upplysningar-vid-Herr-C-J-Holms-Anteckningar-ofver-Falttagen-emot__53971
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53971-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Adlercreutz, Gustav Magnus
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/47643
 description: 'See also: Anteckningar öfver Fälttågen emot Ryssland åren 1808 och 1809
   / C. J. Holm, #53972.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53971#Anmarkningar-och-nodvandiga-Upplysningar-vid-Herr-C-J-Holms-Anteckningar-ofver-Falttagen-emot_
 gutenberg_issued: '2017-01-16'
 gutenberg_type: Text
 identifiers:
